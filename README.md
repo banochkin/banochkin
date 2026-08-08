@@ -41,6 +41,6 @@
 
 Site: [banochkin.com DAO](https://banochkin.com "banochkin.com DAO")
 
-Telegram: [@banochkin_channel](https://t.me/banochkin_channel "@banochkin_channel")
+Telegram: [@banochkincom](https://t.me/banochkincom "@banochkincom")
 
 X: [@banochkincom](https://x.com/banochkincom "@banochkincom")
